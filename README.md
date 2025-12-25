@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Maurya;Computer+Science+Student+%7C+Python+%7C+Machine+Learning;AI+%26+Data+Science+Focused+Developer" />
 </p>
 <!-- FUN CODING GIF -->
-<p align="center">
+<p align="left">
   <img src="https://media1.tenor.com/m/j0B_hLCFUvoAAAAC/kung-fu-panda-kung-fu-panda-2.gif" width="120" alt="kung fu panda gif"/>
 </p>
 
@@ -47,21 +47,21 @@
 
 ---
 ## ⚙️ Tech Stack & Tools (Animated Icons)
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Machine Learning & AI -->
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Data Science -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Web & App Frameworks -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -79,14 +79,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
