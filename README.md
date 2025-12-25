@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Maurya;Computer+Science+Student+%7C+Python+%7C+Machine+Learning;AI+%26+Data+Science+Focused+Developer" />
 </p>
 <!-- FUN CODING GIF -->
-<p align="left">
-  <img src="https://media1.tenor.com/m/j0B_hLCFUvoAAAAC/kung-fu-panda-kung-fu-panda-2.gif" width="120" alt="kung fu panda gif"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/0vGmoTav3dwAAAAC/po-kung-fu-panda.gif" width="120" alt="kung fu panda gif"/>
 </p>
 
 <!-- QUICK CONTACT BADGES -->
-<p align="center">
+<p align="left">
   <a href="mailto:abhay.maurya0303@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhay.maurya0303%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
