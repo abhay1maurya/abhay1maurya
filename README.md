@@ -3,7 +3,7 @@
 </p>
 <!-- FUN CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" alt="panda coding gif"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="panda coding gif"/>
 </p>
 
 <!-- QUICK CONTACT BADGES -->
@@ -99,26 +99,26 @@
 Streamlit app using **Google Gemini API** for personalized workout & meal planning  
 - NLP-based recommendations  
 - Real-time dietary feedback  
-🔗 [repo](https://github.com/abhay1maurya/AI_powered_fitness_and_diet_planner.git)
+🔗 [https://github.com/abhay1maurya/AI_powered_fitness_and_diet_planner.git](https://github.com/abhay1maurya/AI_powered_fitness_and_diet_planner.git)
 
 **🛡️ System Threat Forecaster**  
 ML model to predict system-level cyber threats  
 - Algorithms: Random Forest, Logistic Regression, XGBoost  
 - Achieved **83% accuracy** after feature engineering  
-🔗 [repo](https://github.com/abhay1maurya/System-Threat-Forecaster.git)
+🔗 [https://github.com/abhay1maurya/System-Threat-Forecaster.git](https://github.com/abhay1maurya/System-Threat-Forecaster.git)
 
 **📈 Data-Driven Sales Optimization**  
 Excel-based sales analysis project  
 - Data cleaning, pivot analysis & correlation modeling  
 - Identified regional & seasonal performance gaps  
-🔗[ repo](https://github.com/abhay1maurya/BDM-Capstone-Project.git)
+🔗[ https://github.com/abhay1maurya/BDM-Capstone-Project.git](https://github.com/abhay1maurya/BDM-Capstone-Project.git)
 
 **🌾 Smart Crop Advisory System**  
 ML-based crop recommendation & advisory platform  
 - Analyzed weather parameters (rainfall, temperature, humidity)
 - Generated crop recommendations using machine learning models
 - Designed for practical AgriTech decision support
-🔗 [repo](https://github.com/abhay1maurya/Systemcropadvag.git)
+🔗 [https://github.com/abhay1maurya/Systemcropadvag.git](https://github.com/abhay1maurya/Systemcropadvag.git)
 
 ---
 
