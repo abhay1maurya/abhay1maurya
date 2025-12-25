@@ -3,7 +3,7 @@
 </p>
 <!-- FUN CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="panda coding gif"/>
+  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="120" alt="kung fu panda gif"/>
 </p>
 
 <!-- QUICK CONTACT BADGES -->
