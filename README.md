@@ -44,6 +44,13 @@ Excel-based sales analysis project
 - Identified regional & seasonal performance gaps  
 🔗 https://github.com/abhay1maurya
 
+**🌾 Smart Crop Advisory System**  
+ML-based crop recommendation & advisory platform  
+- Analyzed weather parameters (rainfall, temperature, humidity)
+- Generated crop recommendations using machine learning models
+- Designed for practical AgriTech decision support
+🔗 https://github.com/abhay1maurya
+
 ---
 
 ## 💼 Experience
@@ -72,13 +79,6 @@ Excel-based sales analysis project
 
 ---
 
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay1maurya&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact
 
