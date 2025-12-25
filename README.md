@@ -118,7 +118,7 @@ ML-based crop recommendation & advisory platform
 - Analyzed weather parameters (rainfall, temperature, humidity)
 - Generated crop recommendations using machine learning models
 - Designed for practical AgriTech decision support
-🔗[https://github.com/abhay1maurya/Systemcropadvag.git](https://github.com/abhay1maurya/Systemcropadvag.git)
+  🔗[https://github.com/abhay1maurya/Systemcropadvag.git](https://github.com/abhay1maurya/Systemcropadvag.git)
 
 ---
 
