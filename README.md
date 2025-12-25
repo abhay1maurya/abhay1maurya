@@ -71,6 +71,7 @@
 
 <p align="center">
   <!-- Web & App Frameworks -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -98,26 +99,26 @@
 Streamlit app using **Google Gemini API** for personalized workout & meal planning  
 - NLP-based recommendations  
 - Real-time dietary feedback  
-🔗 https://github.com/abhay1maurya
+🔗 [repo](https://github.com/abhay1maurya/AI_powered_fitness_and_diet_planner.git)
 
 **🛡️ System Threat Forecaster**  
 ML model to predict system-level cyber threats  
 - Algorithms: Random Forest, Logistic Regression, XGBoost  
 - Achieved **83% accuracy** after feature engineering  
-🔗 https://github.com/abhay1maurya
+🔗 [repo](https://github.com/abhay1maurya/System-Threat-Forecaster.git)
 
 **📈 Data-Driven Sales Optimization**  
 Excel-based sales analysis project  
 - Data cleaning, pivot analysis & correlation modeling  
 - Identified regional & seasonal performance gaps  
-🔗 https://github.com/abhay1maurya
+🔗[ repo](https://github.com/abhay1maurya/BDM-Capstone-Project.git)
 
 **🌾 Smart Crop Advisory System**  
 ML-based crop recommendation & advisory platform  
 - Analyzed weather parameters (rainfall, temperature, humidity)
 - Generated crop recommendations using machine learning models
 - Designed for practical AgriTech decision support
-🔗 https://github.com/abhay1maurya
+🔗 [repo](https://github.com/abhay1maurya/Systemcropadvag.git)
 
 ---
 
